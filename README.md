@@ -1,2 +1,3 @@
 # ffuf-
 ffuf-brute force 
+FFUF (pronounced "fuff") is a web application security testing tool and an acronym for "Fast web Fuzzer". It is an open-source command-line tool written in Go language that is designed to quickly fuzz web applications, API endpoints, and other HTTP targets by generating and sending a large number of requests with various payloads, such as common injection strings, directories, and files. The tool is highly configurable and supports multiple modes of operation, including brute force, recursive scanning, and custom wordlists. FFUF can be used for discovering hidden web assets, vulnerabilities, and misconfigurations, and is often used by security researchers, penetration testers, and bug bounty hunters.
